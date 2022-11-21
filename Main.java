@@ -1,13 +1,9 @@
 Class Main {
 public static void main (String [] args({
 
-
+    System.out.println("Teste");
+  
 }
                                         
                                         
-private  vodi actionA(){
-
-  System.out.println("Alvaro");
-  
-}                                        
 }
